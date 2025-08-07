@@ -1,6 +1,6 @@
 # QCD Entropy-QGP Formation: Universal Threshold for Phase Transition
 
-**DOI** [To be assigned] **License:** MIT
+**DOI** [10.5281/zenodo.16762323](https://doi.org/10.5281/zenodo.16762323) **License:** MIT
 
 ## Abstract
 
@@ -107,7 +107,7 @@ This work completes the QCD entropy trilogy:
   month = aug,
   publisher = {Zenodo},
   version = {v1.0.0},
-  doi = {10.5281/zenodo.PENDING},
+  doi = {10.5281/zenodo.16762323},  
   url = {https://github.com/JAMTUPAY/qcd-entropy-qgp-2025}
 }
 ```
